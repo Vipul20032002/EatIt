@@ -1,6 +1,6 @@
-# eatit
+# Eatit
 
-A new Flutter project.
+A Food Ordering Application built using Flutter and Laravel.
 
 ## Getting Started
 
